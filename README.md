@@ -11,5 +11,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
 </p>
 
-[![LeetCode Stats](https://leetcode.card.workers.dev/LucPle?theme=dark&font=baloo&extension=null)](https://leetcode.com/LucPle/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lucple)](https://solved.ac/lucple/)
+[![LeetCode Stats](https://leetcode.card.workers.dev/LucPle?theme=dark&font=baloo&extension=null)](https://leetcode.com/LucPle/)
+
