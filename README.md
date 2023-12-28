@@ -15,7 +15,7 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucple&layout=compact&hide=jupyter%20notebook&exclude_repo=Dreaming)](https://github.com/lucple/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucple&layout=compact&theme=radical&hide=jupyter%20notebook&exclude_repo=Dreaming)](https://github.com/lucple/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lucple)](https://solved.ac/lucple/)
 <!-- [![LeetCode Stats](https://leetcode.card.workers.dev/LucPle?theme=dark&font=baloo&extension=null)](https://leetcode.com/LucPle/) -->
 
